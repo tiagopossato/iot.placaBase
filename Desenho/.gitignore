@@ -1,2 +1,8 @@
 *.pdsbak
 /sensorsHub.pdsprj.Nectar-PC.Nectar.workspace
+*.DO
+*.EDF
+*.log
+*.workspace
+*.sts
+*.rte
